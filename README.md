@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KimVictor2410
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning in PROWEB Education Center
 - 💞️ I’m looking to collaborate on MY OWN.
 - 📫 How to reach me [NO DATA] / [@Victor_N7 in Telegram]
 
